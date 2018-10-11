@@ -1,0 +1,11 @@
+C:\Users\markl\AspNetCoreOnDocker\bin\Debug\netcoreapp2.0\AspNetCoreOnDocker.deps.json
+C:\Users\markl\AspNetCoreOnDocker\bin\Debug\netcoreapp2.0\AspNetCoreOnDocker.runtimeconfig.json
+C:\Users\markl\AspNetCoreOnDocker\bin\Debug\netcoreapp2.0\AspNetCoreOnDocker.runtimeconfig.dev.json
+C:\Users\markl\AspNetCoreOnDocker\bin\Debug\netcoreapp2.0\AspNetCoreOnDocker.dll
+C:\Users\markl\AspNetCoreOnDocker\bin\Debug\netcoreapp2.0\AspNetCoreOnDocker.pdb
+C:\Users\markl\AspNetCoreOnDocker\obj\Debug\netcoreapp2.0\AspNetCoreOnDocker.csprojAssemblyReference.cache
+C:\Users\markl\AspNetCoreOnDocker\obj\Debug\netcoreapp2.0\AspNetCoreOnDocker.csproj.CoreCompileInputs.cache
+C:\Users\markl\AspNetCoreOnDocker\obj\Debug\netcoreapp2.0\AspNetCoreOnDocker.AssemblyInfoInputs.cache
+C:\Users\markl\AspNetCoreOnDocker\obj\Debug\netcoreapp2.0\AspNetCoreOnDocker.AssemblyInfo.cs
+C:\Users\markl\AspNetCoreOnDocker\obj\Debug\netcoreapp2.0\AspNetCoreOnDocker.dll
+C:\Users\markl\AspNetCoreOnDocker\obj\Debug\netcoreapp2.0\AspNetCoreOnDocker.pdb
